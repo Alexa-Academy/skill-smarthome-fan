@@ -1,0 +1,35 @@
+{
+  "name": "skill-smarthome-fan",
+  "version": "1.0.0",
+  "description": "Una semplice skill di tipo smarthome per pilotare un ventilatore",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Mike Maas",
+      "email": "mikemaas@amazon.com"
+    },
+    {
+      "name": "Paolo Godino",
+      "email": "corsi@alexa-academy.it"
+    }
+  ],
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "uuid": ">1.0.0",
+    "source-map-support": "^0.5.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploydev": "sls deploy --verbose --stage dev",
+    "deploy": "sls deploy --verbose --stage prod",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Alexa",
+    "skill",
+    "testing"
+  ],
+  "author": "Alexa Academy",
+  "license": "ISC",
+  "homepage": "https://github.com/alexa/alexa-smarthome"
+}

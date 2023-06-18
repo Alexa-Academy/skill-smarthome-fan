@@ -5,6 +5,7 @@ Questa skill è sviluppata e descritta sul canale YouTube [@alexaacademyit](http
 
 **[Parte 1](https://youtu.be/mLfQkV6kFX0):** In questa parte introduttiva vediamo le basi dello sviluppo di una skill di tipo smarthome e creiamo la skill sulla Alexa Developer Console.
 
+**[Parte 2](https://youtu.be/bn-LN4kaEIw):** In questa parte modifichiamo il codice fornito da Amazon per pilotare uno switch "virtuale". Per ora non aggiungiamo il controllo del dispositivo fisico.
 
 
 Basata sull'esempio fornito da Amazon:
